@@ -1,2 +1,2 @@
 # Sample-api
-123
+This is an api to check programming Language paradigm
